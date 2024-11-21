@@ -17,18 +17,41 @@ A self-supervised graph representing learning method named NEGSC, is proposed to
 
 ## NIDS dataset
 
-Four kinds of NetFlow datasets were selected, including **NF-BoT-IoT**, **NF-CSE-CIC-IDS2018**, **NF-BoT-IoT-v2**, and **NF-CSE-CIC-IDS2018- v2**.
+Nine publicly available datasets to comprehensively evaluate our proposed model, including **UNSW-NB15**, **BoT-IoT**, **ToN-IoT**, and their corresponding variants **NF-UNSW-NB15**, **NF-BoT-IoT**, **NF-ToN-IoT**, **NF-UNSW-NB15-v2**, **NF-BoT-IoT-v2**, **NF-ToN-IoT-v2**.
 All these datasets support binary and multi-class classification predictions.
+*URL*:<br />
+[https://research.unsw.edu.au/projects/unsw-nb15-dataset.](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
+
+*URL*:<br />
+[https://research.unsw.edu.au/projects/unsw-nb15-dataset.](https://research.unsw.edu.au/projects/bot-iot-dataset)
+
+*URL*:<br />
+[https://research.unsw.edu.au/projects/unsw-nb15-dataset.](https://research.unsw.edu.au/projects/toniot-datasets)
 
 *URL*:<br />
 https://staff.itee.uq.edu.au/marius/NIDS_datasets/.
 
 *References*:<br />
-[1] Sarhan M, Layeghy S, Moustafa N, et al. Netflow datasets for machine learning-based network intrusion detection systems[C]. 
+[1] N. Moustafa, J. Slay,
+UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set),
+in: Military Communications and Information Systems Conference,(MilCIS),
+2015.
+
+[2] N. Koroniotis, N. Moustafa, E. Sitnikova, B. Turnbull,
+Towards the development of realistic botnet dataset in the Internet of Things for network forensic analytics: Bot-IoT dataset,
+Future Generation Computer Systems,
+2019, pp. 779-796.
+
+[3] A. Alsaedi, N. Moustafa, Z. Tari, A. Mahmood, A. Anwar,
+TON\_IoT Telemetry Dataset: A New Generation Dataset of IoT and IIoT for Data-Driven Intrusion Detection Systems,
+IEEE Access,
+2020, pp. 165130-165150.
+
+[4] Sarhan M, Layeghy S, Moustafa N, et al. Netflow datasets for machine learning-based network intrusion detection systems[C]. 
 Big Data Technologies and Applications: 10th EAI International Conference, BDTA 2020, and 13th EAI International Conference on Wireless Internet, WiCON 2020,
 Virtual Event, December 11, 2020, Proceedings 10. Springer International Publishing. 2021: 117-135.
 
-[2] Sarhan M, Layeghy S, Portmann M. Towards a standard feature set for
+[5] Sarhan M, Layeghy S, Portmann M. Towards a standard feature set for
 network intrusion detection system datasets[J]. Mobile networks and applications. 2022: 1-14.
 
 # Run

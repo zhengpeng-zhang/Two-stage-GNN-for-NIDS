@@ -19,6 +19,7 @@ A self-supervised graph representing learning method named NEGSC, is proposed to
 
 Nine publicly available datasets to comprehensively evaluate our proposed model, including **UNSW-NB15**, **BoT-IoT**, **ToN-IoT**, and their corresponding variants **NF-UNSW-NB15**, **NF-BoT-IoT**, **NF-ToN-IoT**, **NF-UNSW-NB15-v2**, **NF-BoT-IoT-v2**, **NF-ToN-IoT-v2**.
 All these datasets support binary and multi-class classification predictions.
+
 *URL*:<br />
 https://research.unsw.edu.au/projects/unsw-nb15-dataset.
 
@@ -47,12 +48,15 @@ TON\_IoT Telemetry Dataset: A New Generation Dataset of IoT and IIoT for Data-Dr
 IEEE Access,
 2020, pp. 165130-165150.
 
-[4] Sarhan M, Layeghy S, Moustafa N, et al. Netflow datasets for machine learning-based network intrusion detection systems[C]. 
-Big Data Technologies and Applications: 10th EAI International Conference, BDTA 2020, and 13th EAI International Conference on Wireless Internet, WiCON 2020,
-Virtual Event, December 11, 2020, Proceedings 10. Springer International Publishing. 2021: 117-135.
+[4] M. Sarhan, S. Layeghy, N. Moustafa, M. Portmann,
+Netflow datasets for machine learning-based network intrusion detection systems,
+Big Data Technologies and Applications,
+2020, pp. 117-135
 
-[5] Sarhan M, Layeghy S, Portmann M. Towards a standard feature set for
-network intrusion detection system datasets[J]. Mobile networks and applications. 2022: 1-14.
+[5] M. Sarhan, S. Layeghy, M. Portmann,
+Towards a Standard Feature Set for Network Intrusion Detection System Datasets,
+Mobile Networks and Applications,
+2021, pp. 259-370.
 
 # Run
 We have uploaded Pre-trained Models and sample data, which can be directly tested by running test.ipynb.

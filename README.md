@@ -20,13 +20,13 @@ A self-supervised graph representing learning method named NEGSC, is proposed to
 Nine publicly available datasets to comprehensively evaluate our proposed model, including **UNSW-NB15**, **BoT-IoT**, **ToN-IoT**, and their corresponding variants **NF-UNSW-NB15**, **NF-BoT-IoT**, **NF-ToN-IoT**, **NF-UNSW-NB15-v2**, **NF-BoT-IoT-v2**, **NF-ToN-IoT-v2**.
 All these datasets support binary and multi-class classification predictions.
 *URL*:<br />
-[https://research.unsw.edu.au/projects/unsw-nb15-dataset.](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
+https://research.unsw.edu.au/projects/unsw-nb15-dataset.
 
 *URL*:<br />
-[https://research.unsw.edu.au/projects/unsw-nb15-dataset.](https://research.unsw.edu.au/projects/bot-iot-dataset)
+https://research.unsw.edu.au/projects/bot-iot-dataset.
 
 *URL*:<br />
-[https://research.unsw.edu.au/projects/unsw-nb15-dataset.](https://research.unsw.edu.au/projects/toniot-datasets)
+https://research.unsw.edu.au/projects/toniot-datasets.
 
 *URL*:<br />
 https://staff.itee.uq.edu.au/marius/NIDS_datasets/.

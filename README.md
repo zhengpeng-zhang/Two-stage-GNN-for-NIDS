@@ -78,11 +78,11 @@ Mobile Networks and Applications,
 
 •*Address: Central South University of Forestry and Technology, 498 Shaoshan South Road, Tianxin District, Changsha, Hunan Province. China*;
 
-•*Name&Email: Zhengpeng Zhang email: 3345335681@csuft.edu.cn*. <br />
+•*Name&Email: ZP Zhang email: 3345335681@csuft.edu.cn*. <br />
 
 •The doi of our paper will be upload later..
 
 Thanks for reading！
 
-----Edited by Zhengpeng Zhang<br />
+----Edited by ZP Zhang<br />
 November 2024

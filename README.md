@@ -51,9 +51,6 @@ Towards a Standard Feature Set for Network Intrusion Detection System Datasets,
 Mobile Networks and Applications,
 2021, pp. 259-370.
 
-# Run
-We have uploaded Pre-trained Models and sample data, which can be directly tested by running test.ipynb.
-
 # Environments
 
 • *Python version*: 3.10.8 (main, Nov  4 2022, 13:48:29) [GCC 11.2.0];<br />
@@ -81,11 +78,11 @@ We have uploaded Pre-trained Models and sample data, which can be directly teste
 
 •*Address: Central South University of Forestry and Technology, 498 Shaoshan South Road, Tianxin District, Changsha, Hunan Province. China*;
 
-•*Name&Email: Renjie Xu email: renjiexu@csuft.edu.cn*. <br />
+•*Name&Email: Zhengpeng Zhang email: 3345335681@csuft.edu.cn*. <br />
 
 •The doi of our paper will be upload later..
 
 Thanks for reading！
 
-----Edited by Renjie Xu<br />
+----Edited by Zhengpeng Zhang<br />
 March 2024

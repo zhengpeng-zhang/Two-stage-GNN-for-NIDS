@@ -1,5 +1,5 @@
 # Two-stage-GNN
-
+A Novel Lightweight Two-stage Graph Neural Network for Intrusion Detection System
 
 # Preliminaries
 
